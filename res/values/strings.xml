@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GolfStatProtoActivity!</string>
+    <string name="app_name">GolfStatProto</string>
+    <string name="title">Welcome to the Golfstat Qualifier App! The official app for golf scores and stats!</string>
+    <string name="spectators">Spectators</string>
+    <string name="CP">Coaches &amp; Players</string>
+    <string name="state_prompt">Please enter the state of which the college is located:</string>
+
+</resources>
